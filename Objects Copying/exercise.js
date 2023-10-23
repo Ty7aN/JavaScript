@@ -12,5 +12,7 @@ person2.firstName = "Simon";
 console.log(person1);
 console.log(person2);
 
+// RISPOSTA:
 // L'assegnazione di un oggetto a una variabile 
-// porta alla creazione di un collegamento all'oggetto originale.
+// comporta la creazione di un collegamento all'oggetto originale, 
+// perciò person1 viene modificato di conseguenza.
